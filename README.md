@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C,C++ and Python**
 
-- 💬 Ask me about **Software,Android**
+- 💬 Ask me about **C && C++**
 
 - 📫 How to reach me **topusorker087@gmail.com**
 
