@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝐌𝐚𝐗</h1>
-<h3 align="center">A passionate Software engineer from Bangladesh.</h3>
+<h3 align="center">I aspire to acquire wisdom.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max29087&label=Profile%20views&color=0e75b6&style=flat" alt="max29087" /> </p>
 
